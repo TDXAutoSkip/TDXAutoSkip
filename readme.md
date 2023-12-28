@@ -28,7 +28,9 @@ Without doing this you will be prompted by UAC.
 --- DESCRIPTIONS ---
 
 UAC: Provides extra features if enabled.
+
 StartPaused: Starts with the script toggled off.
+
 Webhook: Sends data to a webhook that you can view.
 
 Values should only be either 'True' or 'False'.
