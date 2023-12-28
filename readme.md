@@ -29,6 +29,7 @@ Without doing this you will be prompted by UAC.
 
 UAC: Provides extra features if enabled.
 StartPaused: Starts with the script toggled off.
+Webhook: Sends data to a webhook that you can view.
 
 Values should only be either 'True' or 'False'.
 
@@ -37,6 +38,8 @@ Values should only be either 'True' or 'False'.
 UAC = True
 
 StartPaused = True
+
+Webhook=False
 
 CHANGING ANY SETTINGS REQUIRES A RESTART OF THE SCRIPT.
 If you would like to close Autoskip you can find it in your system tray when it is running.
