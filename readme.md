@@ -38,6 +38,7 @@ Webhook: Sends data to a webhook that you can view.
 Values should only be either 'True' or 'False'.
 
 --- DEFAULTS ---
+
 Administrator = True
 
 StartPaused = True
