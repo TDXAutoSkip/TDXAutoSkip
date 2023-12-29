@@ -1,8 +1,10 @@
 -~-~- INSTALLATION -~-~-
+
 1. Extract AutoSkipx.x.zip
 2. Run AutoSkip.exe
 
 -~-~- INFORMATION -~-~-
+
 The keybind to pause AutoSkip is: , + p
 You must run Roblox in fullscreen.
 
@@ -22,18 +24,27 @@ To prevent accidental upgrades during the skipping process, run the script as an
 Without doing this you will be prompted by UAC.
 
 -~-~- CONFIG FILE -~-~-
+
 --- DESCRIPTIONS ---
+
 Administrator: Provides extra features if enabled.
+
 StartPaused: Starts with the script toggled off.
+
 Webhook: Sends data to a webhook that you can view.
 ​
+
+
 Values should only be either 'True' or 'False'.
 
 --- DEFAULTS ---
 Administrator = True
+
 StartPaused = True
+
 Webhook=False                                    
 ​        
+
 
 CHANGING ANY SETTINGS REQUIRES A RESTART OF THE SCRIPT.
 If you would like to close Autoskip you can find it in your system tray when it is running.
