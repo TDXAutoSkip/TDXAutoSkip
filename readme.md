@@ -43,7 +43,8 @@ Administrator = True
 
 StartPaused = True
 
-Webhook=False                                
-​
+Webhook=False                                    
+​        
+
 CHANGING ANY SETTINGS REQUIRES A RESTART OF THE SCRIPT.
 If you would like to close Autoskip you can find it in your system tray when it is running.
