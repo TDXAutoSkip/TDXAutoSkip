@@ -18,8 +18,8 @@ This script only supports the following resolutions:
 
 To prevent accidental upgrades during the skipping process, run the script as an administrator. If you want to disable this, follow these steps:
 1. Open the script directory.
-2. Open "config.txt"
-3. Change UAC from "True" to "False".
+2. Open "config.ini"
+3. Change Administrator from "True" to "False".
 4. Save your changes.
 Without doing this you will be prompted by UAC.
 
