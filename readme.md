@@ -27,7 +27,7 @@ Without doing this you will be prompted by UAC.
 
 --- DESCRIPTIONS ---
 
-UAC: Provides extra features if enabled.
+Administrator: Provides extra features if enabled.
 
 StartPaused: Starts with the script toggled off.
 
@@ -39,7 +39,7 @@ Values should only be either 'True' or 'False'.
 
 --- DEFAULTS ---
 
-UAC = True
+Administrator = True
 
 StartPaused = True
 
