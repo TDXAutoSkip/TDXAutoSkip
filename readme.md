@@ -24,4 +24,4 @@ To prevent accidental upgrades during the skipping process, run the script as an
 Without doing this you will be prompted by UAC.
 
 
-##**READ README.TXT FOR MORE INFORMATION**
+###**READ README.TXT FOR MORE INFORMATION**
